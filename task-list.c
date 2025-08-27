@@ -11,7 +11,7 @@ typedef struct {
 
 } Task;
 
-//testing
+// functions
 void addTask(Task **tasks, int *count);
 void viewTasks(Task *tasks, int count);
 void removeTask(Task **tasks, int *count);
